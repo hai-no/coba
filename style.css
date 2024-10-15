@@ -1,0 +1,27 @@
+table {
+    border-collapse: collapse;
+    font-size: 30px;
+}
+
+th,td {
+    border: 2px solid rgb(229, 43, 74);
+    text-align: center;
+}
+
+th {
+    background-color: aqua;
+}
+
+form input {
+    background-color: aqua;
+}
+
+.tabel {
+    display: flex;
+    justify-content: center;  
+}
+
+.formulir {
+    display: flex;
+    justify-content: center;
+}
